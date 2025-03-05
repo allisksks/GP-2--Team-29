@@ -1,0 +1,174 @@
+,ATC,ATC_info,ATC_hierarchy,used_in_diabetes,is_terminal_category,number_of_children
+54,A12AA10,Calcium glucoheptonate,"['A12AA10', 'A12AA', 'A12A', 'A12', 'A']",True,1,1
+125,A10XX01,Teplizumab,"['A10XX01', 'A10XX', 'A10X', 'A10', 'A']",True,1,1
+127,A10XA01,Tolrestat,"['A10XA01', 'A10XA', 'A10X', 'A10', 'A']",True,1,1
+130,A10BK08,Bexagliflozin,"['A10BK08', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+131,A10BK07,Luseogliflozin,"['A10BK07', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+132,A10BK06,Sotagliflozin,"['A10BK06', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+133,A10BK05,Ipragliflozin,"['A10BK05', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+134,A10BK04,Ertugliflozin,"['A10BK04', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+135,A10BK03,Empagliflozin,"['A10BK03', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+136,A10BK02,Canagliflozin,"['A10BK02', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+137,A10BK01,Dapagliflozin,"['A10BK01', 'A10BK', 'A10B', 'A10', 'A']",True,1,1
+139,A10BJ07,Beinaglutide,"['A10BJ07', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+140,A10BJ06,Semaglutide,"['A10BJ06', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+141,A10BJ05,Dulaglutide,"['A10BJ05', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+142,A10BJ04,Albiglutide,"['A10BJ04', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+143,A10BJ03,Lixisenatide,"['A10BJ03', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+144,A10BJ02,Liraglutide,"['A10BJ02', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+145,A10BJ01,Exenatide,"['A10BJ01', 'A10BJ', 'A10B', 'A10', 'A']",True,1,1
+147,A10BX18,Dorzagliatin,"['A10BX18', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+148,A10BX17,Carfloglitazar,"['A10BX17', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+149,A10BX16,Tirzepatide,"['A10BX16', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+150,A10BX15,Imeglimin,"['A10BX15', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+151,A10BX08,Mitiglinide,"['A10BX08', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+152,A10BX06,Benfluorex,"['A10BX06', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+153,A10BX05,Pramlintide,"['A10BX05', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+154,A10BX03,Nateglinide,"['A10BX03', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+155,A10BX02,Repaglinide,"['A10BX02', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+156,A10BX01,Guar gum,"['A10BX01', 'A10BX', 'A10B', 'A10', 'A']",True,1,1
+158,A10BH08,Teneligliptin,"['A10BH08', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+159,A10BH52,Gemigliptin and rosuvastatin,"['A10BH52', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+160,A10BH07,Evogliptin,"['A10BH07', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+161,A10BH51,Sitagliptin and simvastatin,"['A10BH51', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+162,A10BH06,Gemigliptin,"['A10BH06', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+163,A10BH05,Linagliptin,"['A10BH05', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+164,A10BH04,Alogliptin,"['A10BH04', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+165,A10BH03,Saxagliptin,"['A10BH03', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+166,A10BH02,Vildagliptin,"['A10BH02', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+167,A10BH01,Sitagliptin,"['A10BH01', 'A10BH', 'A10B', 'A10', 'A']",True,1,1
+169,A10BG04,Lobeglitazone,"['A10BG04', 'A10BG', 'A10B', 'A10', 'A']",True,1,1
+170,A10BG03,Pioglitazone,"['A10BG03', 'A10BG', 'A10B', 'A10', 'A']",True,1,1
+171,A10BG02,Rosiglitazone,"['A10BG02', 'A10BG', 'A10B', 'A10', 'A']",True,1,1
+172,A10BG01,Troglitazone,"['A10BG01', 'A10BG', 'A10B', 'A10', 'A']",True,1,1
+174,A10BF03,Voglibose,"['A10BF03', 'A10BF', 'A10B', 'A10', 'A']",True,1,1
+175,A10BF02,Miglitol,"['A10BF02', 'A10BF', 'A10B', 'A10', 'A']",True,1,1
+176,A10BF01,Acarbose,"['A10BF01', 'A10BF', 'A10B', 'A10', 'A']",True,1,1
+178,A10BD29,Sitagliptin and dapagliflozin,"['A10BD29', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+179,A10BD28,Metformin and teneligliptin,"['A10BD28', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+180,A10BD27,"Metformin, linagliptin and empagliflozin","['A10BD27', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+181,A10BD26,Metformin and lobeglitazone,"['A10BD26', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+182,A10BD25,"Metformin, saxagliptin and dapagliflozin","['A10BD25', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+183,A10BD24,Sitagliptin and ertugliflozin,"['A10BD24', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+184,A10BD23,Metformin and ertugliflozin,"['A10BD23', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+185,A10BD22,Metformin and evogliptin,"['A10BD22', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+186,A10BD21,Saxagliptin and dapagliflozin,"['A10BD21', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+187,A10BD20,Metformin and empagliflozin,"['A10BD20', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+188,A10BD19,Linagliptin and empagliflozin,"['A10BD19', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+189,A10BD18,Metformin and gemigliptin,"['A10BD18', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+190,A10BD17,Metformin and acarbose,"['A10BD17', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+191,A10BD16,Metformin and canagliflozin,"['A10BD16', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+192,A10BD15,Metformin and dapagliflozin,"['A10BD15', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+193,A10BD14,Metformin and repaglinide,"['A10BD14', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+194,A10BD13,Metformin and alogliptin,"['A10BD13', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+195,A10BD12,Pioglitazone and sitagliptin,"['A10BD12', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+196,A10BD11,Metformin and linagliptin,"['A10BD11', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+197,A10BD10,Metformin and saxagliptin,"['A10BD10', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+198,A10BD09,Pioglitazone and alogliptin,"['A10BD09', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+199,A10BD08,Metformin and vildagliptin,"['A10BD08', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+200,A10BD07,Metformin and sitagliptin,"['A10BD07', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+201,A10BD06,Glimepiride and pioglitazone,"['A10BD06', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+202,A10BD05,Metformin and pioglitazone,"['A10BD05', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+203,A10BD04,Glimepiride and rosiglitazone,"['A10BD04', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+204,A10BD03,Metformin and rosiglitazone,"['A10BD03', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+205,A10BD02,Metformin and sulfonylureas,"['A10BD02', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+206,A10BD01,Phenformin and sulfonylureas,"['A10BD01', 'A10BD', 'A10B', 'A10', 'A']",True,1,1
+208,A10BC01,Glymidine,"['A10BC01', 'A10BC', 'A10B', 'A10', 'A']",True,1,1
+210,A10BB31,Acetohexamide,"['A10BB31', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+211,A10BB12,Glimepiride,"['A10BB12', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+212,A10BB11,Glisoxepide,"['A10BB11', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+213,A10BB10,Metahexamide,"['A10BB10', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+214,A10BB09,Gliclazide,"['A10BB09', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+215,A10BB08,Gliquidone,"['A10BB08', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+216,A10BB07,Glipizide,"['A10BB07', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+217,A10BB06,Carbutamide,"['A10BB06', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+218,A10BB05,Tolazamide,"['A10BB05', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+219,A10BB04,Glibornuride,"['A10BB04', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+220,A10BB03,Tolbutamide,"['A10BB03', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+221,A10BB02,Chlorpropamide,"['A10BB02', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+222,A10BB01,Glibenclamide,"['A10BB01', 'A10BB', 'A10B', 'A10', 'A']",True,1,1
+224,A10BA03,Buformin,"['A10BA03', 'A10BA', 'A10B', 'A10', 'A']",True,1,1
+225,A10BA02,Metformin,"['A10BA02', 'A10BA', 'A10B', 'A10', 'A']",True,1,1
+226,A10BA01,Phenformin,"['A10BA01', 'A10BA', 'A10B', 'A10', 'A']",True,1,1
+229,A10AF01,Insulin (human),"['A10AF01', 'A10AF', 'A10A', 'A10', 'A']",True,1,1
+231,A10AE07,Insulin icodec,"['A10AE07', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+232,A10AE54,Insulin glargine and lixisenatide,"['A10AE54', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+233,A10AE56,Insulin degludec and liraglutide,"['A10AE56', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+234,A10AE30,Combinations,"['A10AE30', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+235,A10AE06,Insulin degludec,"['A10AE06', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+236,A10AE05,Insulin detemir,"['A10AE05', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+237,A10AE04,Insulin glargine,"['A10AE04', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+238,A10AE03,Insulin (pork),"['A10AE03', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+239,A10AE02,Insulin (beef),"['A10AE02', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+240,A10AE01,Insulin (human),"['A10AE01', 'A10AE', 'A10A', 'A10', 'A']",True,1,1
+242,A10AD30,Combinations,"['A10AD30', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+243,A10AD06,Insulin degludec and insulin aspart,"['A10AD06', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+244,A10AD05,Insulin aspart,"['A10AD05', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+245,A10AD04,Insulin lispro,"['A10AD04', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+246,A10AD03,Insulin (pork),"['A10AD03', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+247,A10AD02,Insulin (beef),"['A10AD02', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+248,A10AD01,Insulin (human),"['A10AD01', 'A10AD', 'A10A', 'A10', 'A']",True,1,1
+250,A10AC30,Combinations,"['A10AC30', 'A10AC', 'A10A', 'A10', 'A']",True,1,1
+251,A10AC04,Insulin lispro,"['A10AC04', 'A10AC', 'A10A', 'A10', 'A']",True,1,1
+252,A10AC03,Insulin (pork),"['A10AC03', 'A10AC', 'A10A', 'A10', 'A']",True,1,1
+253,A10AC02,Insulin (beef),"['A10AC02', 'A10AC', 'A10A', 'A10', 'A']",True,1,1
+254,A10AC01,Insulin (human),"['A10AC01', 'A10AC', 'A10A', 'A10', 'A']",True,1,1
+256,A10AB30,Combinations,"['A10AB30', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+257,A10AB06,Insulin glulisine,"['A10AB06', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+258,A10AB05,Insulin aspart,"['A10AB05', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+259,A10AB04,Insulin lispro,"['A10AB04', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+260,A10AB03,Insulin (pork),"['A10AB03', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+261,A10AB02,Insulin (beef),"['A10AB02', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+262,A10AB01,Insulin (human),"['A10AB01', 'A10AB', 'A10A', 'A10', 'A']",True,1,1
+290,A08AA10,Sibutramine,"['A08AA10', 'A08AA', 'A08A', 'A08', 'A']",True,1,1
+374,A07AA10,Colistin,"['A07AA10', 'A07AA', 'A07A', 'A07', 'A']",True,1,1
+466,A05BA10,Phospholipids,"['A05BA10', 'A05BA', 'A05B', 'A05', 'A']",True,1,1
+515,A03FA10,Acotiamide,"['A03FA10', 'A03FA', 'A03F', 'A03', 'A']",True,1,1
+729,A02AA10,Combinations,"['A02AA10', 'A02AA', 'A02A', 'A02', 'A']",True,1,1
+803,B06AA10,Desoxyribonuclease,"['B06AA10', 'B06AA', 'B06A', 'B06', 'B']",True,1,1
+833,B05XA10,Magnesium phosphate,"['B05XA10', 'B05XA', 'B05X', 'B05', 'B']",True,1,1
+860,B05CA10,Combinations,"['B05CA10', 'B05CA', 'B05C', 'B05', 'B']",True,1,1
+880,B05BA10,Combinations,"['B05BA10', 'B05BA', 'B05B', 'B05', 'B']",True,1,1
+892,B05AA10,Hemoglobin glutamer (bovine),"['B05AA10', 'B05AA', 'B05A', 'B05', 'B']",True,1,1
+951,B03AA10,Ferrous ascorbate,"['B03AA10', 'B03AA', 'B03A', 'B03', 'B']",True,1,1
+1094,B01AA10,Diphenadione,"['B01AA10', 'B01AA', 'B01A', 'B01', 'B']",True,1,1
+1130,C10BA10,Bempedoic acid and ezetimibe,"['C10BA10', 'C10BA', 'C10B', 'C10', 'C']",True,1,1
+1222,C09DA10,Fimasartan and diuretics,"['C09DA10', 'C09DA', 'C09D', 'C09', 'C']",True,1,1
+1233,C09CA10,Fimasartan,"['C09CA10', 'C09CA', 'C09C', 'C09', 'C']",True,1,1
+1283,C09AA10,Trandolapril,"['C09AA10', 'C09AA', 'C09A', 'C09', 'C']",True,1,1
+1325,C08CA10,Nilvadipine,"['C08CA10', 'C08CA', 'C08C', 'C08', 'C']",True,1,1
+1482,C05AA10,Fluocinolone acetonide,"['C05AA10', 'C05AA', 'C05A', 'C05', 'C']",True,1,1
+1599,C03BA10,Xipamide,"['C03BA10', 'C03BA', 'C03B', 'C03', 'C']",True,1,1
+1850,C01CA10,Methoxamine,"['C01CA10', 'C01CA', 'C01C', 'C01', 'C']",True,1,1
+2025,D09AA10,Clioquinol,"['D09AA10', 'D09AA', 'D09A', 'D09', 'D']",True,1,1
+2300,D04AA10,Promethazine,"['D04AA10', 'D04AA', 'D04A', 'D04', 'D']",True,1,1
+2512,G03GA10,Follitropin delta,"['G03GA10', 'G03GA', 'G03G', 'G03', 'G']",True,1,1
+2546,G03FA10,Norgestrel and estrogen,"['G03FA10', 'G03FA', 'G03F', 'G03', 'G']",True,1,1
+2652,G03AA10,Gestodene and ethinylestradiol,"['G03AA10', 'G03AA', 'G03A', 'G03', 'G']",True,1,1
+2755,G01AA10,Clindamycin,"['G01AA10', 'G01AA', 'G01A', 'G01', 'G']",True,1,1
+2907,J07CA10,Typhoid-hepatitis a,"['J07CA10', 'J07CA', 'J07C', 'J07', 'J']",True,1,1
+3326,J01RA10,Ciprofloxacin and metronidazole,"['J01RA10', 'J01RA', 'J01R', 'J01', 'J']",True,1,1
+3361,J01MA10,Rufloxacin,"['J01MA10', 'J01MA', 'J01M', 'J01', 'J']",True,1,1
+3403,J01FA10,Azithromycin,"['J01FA10', 'J01FA', 'J01F', 'J01', 'J']",True,1,1
+3573,J01CA10,Mezlocillin,"['J01CA10', 'J01CA', 'J01C', 'J01', 'J']",True,1,1
+3597,J01AA10,Penimepicycline,"['J01AA10', 'J01AA', 'J01A', 'J01', 'J']",True,1,1
+3776,L03AA10,Lenograstim,"['L03AA10', 'L03AA', 'L03A', 'L03', 'L']",True,1,1
+4193,L01AA10,Melphalan flufenamide,"['L01AA10', 'L01AA', 'L01A', 'L01', 'L']",True,1,1
+4376,M02AA10,Ketoprofen,"['M02AA10', 'M02AA', 'M02A', 'M02', 'M']",True,1,1
+4616,N06BA10,Fenetylline,"['N06BA10', 'N06BA', 'N06B', 'N06', 'N']",True,1,1
+4689,N06AA10,Nortriptyline,"['N06AA10', 'N06AA', 'N06A', 'N06', 'N']",True,1,1
+4776,N05CA10,Cyclobarbital,"['N05CA10', 'N05CA', 'N05C', 'N05', 'N']",True,1,1
+4822,N05BA10,Ketazolam,"['N05BA10', 'N05BA', 'N05B', 'N05', 'N']",True,1,1
+4957,N04AA10,Mazaticol,"['N04AA10', 'N04AA', 'N04A', 'N04', 'N']",True,1,1
+5117,N02BA10,Benorilate,"['N02BA10', 'N02BA', 'N02B', 'N02', 'N']",True,1,1
+5190,N02AA10,Papaveretum,"['N02AA10', 'N02AA', 'N02A', 'N02', 'N']",True,1,1
+5551,R06AA10,Trimethobenzamide,"['R06AA10', 'R06AA', 'R06A', 'R06', 'R']",True,1,1
+5601,R05DA10,Thebacon,"['R05DA10', 'R05DA', 'R05D', 'R05', 'R']",True,1,1
+5631,R05CA10,Combinations,"['R05CA10', 'R05CA', 'R05C', 'R05', 'R']",True,1,1
+5676,R03DA10,Bufylline,"['R03DA10', 'R03DA', 'R03D', 'R03', 'R']",True,1,1
+5823,R02AA10,Myristyl-benzalkonium,"['R02AA10', 'R02AA', 'R02A', 'R02', 'R']",True,1,1
+5894,R01AA10,Metizoline,"['R01AA10', 'R01AA', 'R01A', 'R01', 'R']",True,1,1
+6036,V09IA10,Technetium (99mtc)trofolastat chloride,"['V09IA10', 'V09IA', 'V09I', 'V09', 'V']",True,1,1
+6163,V08CA10,Gadoxetic acid,"['V08CA10', 'V08CA', 'V08C', 'V08', 'V']",True,1,1
+6208,V08AA10,Diodone,"['V08AA10', 'V08AA', 'V08A', 'V08', 'V']",True,1,1
+6397,V01AA10,Flowers,"['V01AA10', 'V01AA', 'V01A', 'V01', 'V']",True,1,1
