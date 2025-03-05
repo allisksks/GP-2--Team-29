@@ -20,3 +20,23 @@ all_drug_info.csv
 
 Файлы полученные после 4 этапа:
 data_for_eda
+
+
+### Описание признакогв из таблицы, с которой мы работали в итоге в EDA:
+**Краткий обзор набора данных features_data.csv**
+
+Наш набор данных features_data.csv содержит информацию о различных кодах ATC и связанных с ними атрибутах.
+
+**Ключевые атрибуты включают:**
+
+* ATC, ATC_info, ATC_hierarchy: Идентификаторы и классификации.
+* used_in_diabetes: Булевый флаг для актуальности при диабете.
+* Mechanism of Action, Targets, Indication: Подробные текстовые описания.
+* Категориальный признак: indication_category
+* Количественные признаки:
+  * num_dfg,	num_ingridients - число способов применения (групп к которым относят лекарства по способу применения), число ингридиентов
+  * number_of_children, num_targets, mechanism_complexity.
+  * Средние метрики сходства и совпадения: avg_mechanism_similarity, avg_target_overlap.
+
+* Булевые флаги для пропущенных данных: Например, missing_mechanism, missing_targets.
+
